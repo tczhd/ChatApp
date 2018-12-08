@@ -2,8 +2,9 @@
   "name": "chat-app",
   "version": "1.0.0",
   "description": "Chat1 test",
-  "main": "index.js",
+  "main": "Server.js",
   "scripts": {
+    "start": "node Server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David",
